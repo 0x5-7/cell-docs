@@ -24,9 +24,7 @@ Similarly, the balance between the number of grids is another thing you need to 
 
 ## Advantages of grid bot&#x20;
 
-No one can really predict the future. So it is important for you to consider a less market-dependent trading strategy like a grid bot.
-
-* Market Independent: Grid bot is the perfect strategy for a sideway market that doesn’t have a clear trend&#x20;
+* Market Independent: No one can really predict the future. Grid bot is the perfect strategy for a sideway market that doesn’t have a clear trend&#x20;
 * Simple but Powerful: There is no complicated algorithm. You can deploy a short term strategy to capture hundreds of trades each day for small volatilities or set up a long term bot to passively earn incomes and capture larger trends.&#x20;
 * Market Making: You might not notice. But this is a great way to inject liquidity into illiquid markets, which are much more volatile and can often observe huge 5+% spikes within a minute. You as a LP can easily capture these profits by opening up a grid bot.
 
