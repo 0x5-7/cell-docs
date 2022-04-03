@@ -8,6 +8,8 @@ What if you could do that automatically 7/24? You hear it right! Grid Trading Bo
 
 ## How does grid bot work?
 
+![](https://lh5.googleusercontent.com/MNuw8wTPQNbdFTBAkm-Ycn3LcWfZbbN4zfSx0ArqEoeS73DhFfl6B9OiB176DKWv8N5qAhE4YcPnoaF86d7mU4uQfkib2GD9AoSiObQUFkIuDFqQNnxLpHtd47ifXdIpt7WK\_My4)
+
 Grid trading is when orders are placed above and below a set price, creating a grid of orders at incrementally increasing and decreasing prices. ([Investopedia](https://www.investopedia.com/terms/g/grid-trading.asp)) This sounds complicated but it’s actually quite simple. Let’s unfold it with an example.
 
 ![](../.gitbook/assets/image.png)
