@@ -12,7 +12,7 @@ Expand each trading pair to explore the top 10 grid strategies set up by our top
 There are different directions for a bot, including **`Long`**, **`Short`**, **`Neutral`**, and **`Enhanced Neutral`**. Please read more about how these different types work at [grid-bot.md](../../fundamentals/grid-bot.md "mention") section.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 ### **Create Flow 1: One Click Copy**
 
