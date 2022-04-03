@@ -18,6 +18,8 @@ Cell also pioneered an innovative **Range-based Farm** that redefines incentive 
 
 Whoever you are, there is a special space for your to explore and participate.
 
+
+
 > **Liquidity providers** can seamlessly create or copy grid LP strategies like pro market makers, and capture high APY from price fluctuation.
 
 > **Crypto projects** can accurately incentivize community LPs with native tokens, and build products atop with our highly-composable modules.
@@ -26,13 +28,22 @@ Whoever you are, there is a special space for your to explore and participate.
 
 ## How is Cell different?
 
+{% hint style="success" %}
 **Aligned Interest:** Cell Protocol only charges performance fees when users are actually profitable compared to traditional bots that charges admin fees regardlessly.
+{% endhint %}
 
+{% hint style="success" %}
 **User Experience:** Built upon highly scalable networks, like Solana, to provide web2 user experiences, while maintaining intuitive and easy-to-use DeFi look and feel.
+{% endhint %}
 
+{% hint style="success" %}
 **Composability & Flexibility:** AMMs (Uniswap), Active Liquidity Management Tools (Gamma), Interest-bearing Collateral Protocol (Abracadabra), and much more can be built on top of Cell.
+{% endhint %}
 
+{% hint style="success" %}
 **Rich-strategy:** A slew of custom and preset strategies that meet needs of both advanced traders as well as beginners.
+{% endhint %}
 
+{% hint style="success" %}
 **Unparalleled Yields:** 3 sources of profits compared to trading bots built upon CEXs, including zero trading fees, market making rewards, as well as LP boosts on top of already high -profit grid strategy.
-
+{% endhint %}
