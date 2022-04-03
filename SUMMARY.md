@@ -4,7 +4,9 @@
 
 ## Guide
 
-* [Add Liquidity](guide/add-liquidity.md)
+* [Add Liquidity](guide/add-liquidity/README.md)
+  * [Factory](guide/add-liquidity/factory.md)
+  * [Botopia](guide/add-liquidity/botopia.md)
 * [Create SAMM Bot](guide/create-samm-bot.md)
 
 ## FUNDAMENTALS

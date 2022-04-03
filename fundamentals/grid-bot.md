@@ -12,7 +12,7 @@ What if you could do that automatically 7/24? You hear it right! Grid Trading Bo
 
 Grid trading is when orders are placed above and below a set price, creating a grid of orders at incrementally increasing and decreasing prices. ([Investopedia](https://www.investopedia.com/terms/g/grid-trading.asp)) This sounds complicated but it’s actually quite simple. Let’s unfold it with an example.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 The bot is placing buy-orders at every $200 below the market price and sell orders at every $200 above. The bot constantly “buys low” and “sells high” to capture profit from price fluctuations.
 
