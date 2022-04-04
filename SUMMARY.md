@@ -15,7 +15,6 @@
 * [Grid Bot](fundamentals/grid-bot/README.md)
   * [Strategy](fundamentals/grid-bot/strategy.md)
 * [SAMM vs. AMM](fundamentals/samm-vs.-amm.md)
-* [Farming(3,3)](fundamentals/farming-3-3.md)
 
 ## Developers
 
