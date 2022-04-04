@@ -1,5 +1,6 @@
 ---
 description: A Smart Automated Market Maker (SAMM) protocol
+coverY: 0
 ---
 
 # Overview
