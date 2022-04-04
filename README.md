@@ -18,8 +18,6 @@ Cell also pioneered an innovative **Range-based Farm** that redefines incentive 
 
 Whoever you are, there is a special space for your to explore and participate.
 
-
-
 > **Liquidity providers** can seamlessly create or copy grid LP strategies like pro market makers, and capture high APY from price fluctuation.
 
 > **Crypto projects** can accurately incentivize community LPs with native tokens, and build products atop with our highly-composable modules.
@@ -45,5 +43,5 @@ Whoever you are, there is a special space for your to explore and participate.
 {% endhint %}
 
 {% hint style="success" %}
-**Unparalleled Yields:** 3 sources of profits compared to trading bots built upon CEXs, including zero trading fees, market making rewards, as well as LP boosts on top of already high -profit grid strategy.
+**Unparalleled Yields:** 3 sources of profits compared to trading bots built upon CEXs, including zero trading fees, market making rewards, as well as LP boosts on top of already high-profit grid strategy.
 {% endhint %}

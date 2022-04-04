@@ -7,11 +7,13 @@
 * [Add Liquidity](guide/add-liquidity/README.md)
   * [Factory](guide/add-liquidity/factory.md)
   * [Botopia](guide/add-liquidity/botopia.md)
-* [Create SAMM Bot](guide/create-samm-bot.md)
+* [Create SAMM Bot](guide/create-samm-bot/README.md)
+  * [Setup](guide/create-samm-bot/setup.md)
 
 ## FUNDAMENTALS
 
-* [Grid Bot](fundamentals/grid-bot.md)
+* [Grid Bot](fundamentals/grid-bot/README.md)
+  * [Strategy](fundamentals/grid-bot/strategy.md)
 * [SAMM vs. AMM](fundamentals/samm-vs.-amm.md)
 * [Farming(3,3)](fundamentals/farming-3-3.md)
 

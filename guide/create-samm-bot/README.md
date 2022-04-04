@@ -6,7 +6,7 @@ description: Customize your own bot
 
 #### Step 1: Select Pair
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 #### Step 2: Fill in the Create Bot form
 
@@ -23,7 +23,7 @@ Enter the following fields to create a bot.
 
 
 
-&#x20;Please read more about how these different types work at [grid-bot.md](../fundamentals/grid-bot.md "mention") section
+&#x20;Please read more about how these different types work at [#bot-parameters](setup.md#bot-parameters "mention") section
 {% endhint %}
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2).png>)
