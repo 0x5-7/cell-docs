@@ -45,6 +45,10 @@ The entire lifecycle of a bot can be described as the following:
 > 3. Withdraw from mango
 > 4. Withdraw from bot
 
+{% hint style="info" %}
+Note: Cell charges 10% performance fee, when the bot is profitable. No fees will be charged if the bot is losing money.
+{% endhint %}
+
 ## Bot Parameters
 
 

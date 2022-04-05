@@ -12,9 +12,9 @@
 
 ## FUNDAMENTALS
 
-* [Grid Bot](fundamentals/grid-bot/README.md)
-  * [Strategy](fundamentals/grid-bot/strategy.md)
+* [Grid Bot](fundamentals/grid-bot.md)
 * [SAMM vs. AMM](fundamentals/samm-vs.-amm.md)
+* [FAQ](fundamentals/faq.md)
 
 ## Developers
 
