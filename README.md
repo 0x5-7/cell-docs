@@ -17,7 +17,7 @@ Cell also pioneered an innovative **Range-based Farm** that redefines incentive 
 
 ## Who can benefit from Cell?
 
-Whoever you are, there is a special space for your to explore and participate.
+Whoever you are, there is a special space for you to explore and participate.
 
 > **Liquidity providers** can seamlessly create or copy grid LP strategies like pro market makers, and capture high APY from price fluctuation.
 
