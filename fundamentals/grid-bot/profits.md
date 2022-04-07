@@ -16,11 +16,23 @@ bot\_profit = strategy\_profit + market\_making\_rewards
 
 #### Strategy Profit
 
-This is the gain by executing the grid strategy 7/24. The bot will constantly enqueue the Buy/Sell orders in a LIFO (Last In, First Out) manner, and make money by earning the price difference of a single (or sometimes multiple) grid interval(s).&#x20;
+This is the gain by executing the grid strategy 7/24. The bot will constantly enqueue the Buy/Sell orders in a LIFO (Last In, First Out) manner, and make money by earning the price difference of a single (or sometimes multiple) grid interval(s) from a _`match`._
 
 $$
 Profit_i = Q * D_i
 $$
+
+where,
+
+&#x20;   Profit\_i = Profit for the i'th match.
+
+&#x20;   Q = Grid Quantity (or Quantity/Order)
+
+&#x20;   D\_i = Price Difference for the i'th match
+
+
+
+The total strategy profits is the sum of every single match.
 
 $$
 P_b = Profit_1 + Profit_2 + ... + Profit_n
