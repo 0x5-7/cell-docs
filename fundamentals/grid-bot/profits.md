@@ -20,6 +20,10 @@ $$
 Profit_i = Q * D_i
 $$
 
+$$
+P_b = Profit_1 + Profit_2 + ... + Profit_n
+$$
+
 Let's take a look at an example below. Assume we have a grid setup for ETH that goes between 2500 \~ 3500, with a $200 interval, and the qty/order is 1ETH. Then the sequence of the orders would be:
 
 Initial:  1ETH@3200                                                                            -> queue size = 1
@@ -46,11 +50,23 @@ $$
 
 ### Position Profit
 
-Position profit is self explanatory. That is the profit by holding the opening positions since bot started. This can also be a loss in the case of a reverse market of your strategy.
+Position profit (P\_p) is self explanatory. That is the profit by holding the opening positions since bot started. This can also be a loss in the case of a reverse market of your strategy.
 
 {% hint style="success" %}
 position\_profit = (current\_market\_price - avg\_position\_cost) \* position\_size
 {% endhint %}
+
+### APR
+
+We show Bot APR (APR\_b) and Total APR (APR\_t) throughout the product. They are calculated as following:
+
+$$
+APR_b = (P_b / Investment) / Duration * 365
+$$
+
+$$
+APR_t = ((P_b + P_p)/ Investment) / Duration * 365
+$$
 
 ## How to check Bot Profits?
 
