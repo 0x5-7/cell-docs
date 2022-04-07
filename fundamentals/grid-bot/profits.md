@@ -14,7 +14,9 @@ There are 2 major sources of profit running a grid bot, `Bot Profit` and `Positi
 bot\_profit = strategy\_profit + market\_making\_rewards
 {% endhint %}
 
-* `Strategy Profit` is the gain by executing the grid strategy 7/24. The bot will constantly enqueue the Buy/Sell orders in a LIFO (Last In, First Out) manner, and make money by earning the price difference of a single (or sometimes multiple) grid interval(s).&#x20;
+#### Strategy Profit
+
+This is the gain by executing the grid strategy 7/24. The bot will constantly enqueue the Buy/Sell orders in a LIFO (Last In, First Out) manner, and make money by earning the price difference of a single (or sometimes multiple) grid interval(s).&#x20;
 
 $$
 Profit_i = Q * D_i
@@ -44,13 +46,15 @@ $$
 
 
 
-* `Market Making Rewards` comes from rebates received when the bot places limit orders on the orderbook.&#x20;
+#### Market Making Rewards&#x20;
+
+This comes from rebates received when the bot places limit orders on the orderbook.&#x20;
 
 ![Mango Market, for example, gives 3bp (0.03%) Maker rewards currently.](<../../.gitbook/assets/image (1).png>)
 
 ### Position Profit
 
-Position profit (P\_p) is self explanatory. That is the profit by holding the opening positions since bot started. This can also be a loss in the case of a reverse market of your strategy.
+Position profit (P\_p) is self explanatory. It is the profit by holding the positions since bot started. This can also be a loss in the case of a reversal market from the time your strategy started.
 
 {% hint style="success" %}
 position\_profit = (current\_market\_price - avg\_position\_cost) \* position\_size
