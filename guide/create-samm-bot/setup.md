@@ -53,7 +53,7 @@ Note: Cell charges 10% performance fee, when the bot is profitable. No fees will
 
 
 
-![Create Bot Form](<../../.gitbook/assets/image (3).png>)
+![Create Bot Form](<../../.gitbook/assets/image (3) (1).png>)
 
 #### 1 - Bot Name
 

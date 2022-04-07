@@ -9,10 +9,10 @@ description: A list of high-yield strategies run by the community and for the co
 Expand each trading pair to explore the top 10 grid strategies set up by our top strategists. The list is sorted by TVL by default. Under each asset, the trading bots are then sorted by the total APR.
 
 {% hint style="info" %}
-There are different directions for a bot, including **`Long`**, **`Short`**, **`Neutral`**, and **`Enhanced Neutral`**. Please read more about how these different types work at [grid-bot.md](../../fundamentals/grid-bot.md "mention") section.
+There are different directions for a bot, including **`Long`**, **`Short`**, **`Neutral`**, and **`Enhanced Neutral`**. Please read more about how these different types work at [grid-bot](../../fundamentals/grid-bot/ "mention") section.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (3) (1) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 ### **Create Flow 1: One Click Copy**
 

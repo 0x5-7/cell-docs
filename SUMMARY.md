@@ -12,7 +12,8 @@
 
 ## FUNDAMENTALS
 
-* [Grid Bot](fundamentals/grid-bot.md)
+* [Grid Bot](fundamentals/grid-bot/README.md)
+  * [Profits](fundamentals/grid-bot/profits.md)
 * [SAMM vs. AMM](fundamentals/samm-vs.-amm.md)
 * [FAQ](fundamentals/faq.md)
 
