@@ -26,4 +26,4 @@ Enter the following fields to create a bot.
 &#x20;Please read more about how these different types work at [setup.md](setup.md "mention") page
 {% endhint %}
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1).png>)

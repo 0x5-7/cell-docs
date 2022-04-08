@@ -8,7 +8,7 @@ description: >-
 
 #### Step 1: Browse Assets
 
-![Pools | Factory](<../../.gitbook/assets/image (2) (1) (1).png>)
+![Pools | Factory](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 #### Step 2: Create Bot & Deposit
 

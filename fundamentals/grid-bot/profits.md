@@ -38,7 +38,7 @@ $$
 P_b = Profit_1 + Profit_2 + ... + Profit_n
 $$
 
-Let's take a look at an example below. Assume we have a grid setup for ETH that goes between 2500 \~ 3500, with a $200 interval, and the qty/order is 1ETH. Then the sequence of the orders would be:
+Let's take a look at an example below. Assume we have a grid setup for ETH that goes between 2500 \~ 3500, with a $200 interval, and the qty/order is 1ETH. Then the orders queue would look like this:
 
 Initial:  1ETH@3200                                                                            -> queue size = 1
 
@@ -54,7 +54,7 @@ $$
 Profit_1 = 1ETH * ($3100 - $2900) = $200
 $$
 
-![](<../../.gitbook/assets/image (4).png>)                     ![](<../../.gitbook/assets/image (7).png>)     &#x20;
+![](<../../.gitbook/assets/image (2).png>)                     ![](<../../.gitbook/assets/image (7).png>)     &#x20;
 
 
 
