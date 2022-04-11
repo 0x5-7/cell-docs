@@ -7,7 +7,7 @@ coverY: 0
 
 ## What is Cell?
 
-Welcome to Cell, a Smart Automated Market Maker (SAMM) that democratizes liquidity provision for Central Limit Order Book (CLOB) DEXs. By building a bot infrastructure that enables anyone to seamlessly create gird trading strategies and deposit assets into boosted farms, Cell aims to become the liquidity gateway for CLOBs.
+Welcome to Cell, a Smart Automated Market Maker (SAMM) that democratizes liquidity provision for Central Limit Order Book (CLOB) DEXs. By building a bot infrastructure that enables anyone to seamlessly create grid trading strategies and deposit assets into boosted farms, Cell aims to become the liquidity gateway for CLOBs.
 
 ## What is the point of Cell?
 
