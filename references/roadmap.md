@@ -37,8 +37,8 @@
 
 ### 2023 Q1 & 2023 Q2
 
-* [ ] Public Sale & TGE
 * [ ] Multi-chain expansion: Alt L1s and L2s
+* [ ] Public Sale & TGE
 * [ ] Multi-chain CLOB DEX
 
 ### 2023 Q3
