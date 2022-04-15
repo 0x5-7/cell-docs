@@ -29,3 +29,20 @@ For a Neutral bot, you will be holding roughly half of the total investment in s
 
 `Enhanced Neutral`: similar to neutral bot but clears any long or short position every 6 hours, ideal for volatile markets without clear directions
 
+## What’s the impact of order size on slippage？
+
+This really depends on the liquidity depth of the market. We recommend checking [mangolorians](https://mangolorians.com/analytics/?instrument=SOL-PERP), an analytic site for checking buy/sell slippage before you create your bot.
+
+## What’s the difference between Grid Profit and Total Profit?
+
+Grid profit combines the strategy profit by "buying low and selling high" with the market making rewards is applicable. Total profit is Grid Profit + Position Profit, where Position Profit comes from price moving up or down.
+
+Check our [profits.md](grid-bot/profits.md "mention") page for more details.
+
+## Upon closing, how long does it take to withdraw?
+
+Depending on the Solana network conditions, it could take a few moments or longer. Please try a few times with patience.
+
+## Wen token?
+
+We don't have a set-stone date on a token release yet. However, we will be sure to keep everyone posted as soon as we finalize any details.
