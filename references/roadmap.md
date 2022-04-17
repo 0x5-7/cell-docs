@@ -12,19 +12,16 @@
 * [ ] Website Release
 * [ ] Brand Design
 
-### 2022 Q2
+### 2022 Q2 - Alpha Launch
 
-* [ ] Alpha Launch
 * [ ] Seed Round
 * [ ] Opensource & Audit
-* [ ] Serum Integration
-* [ ] Zeta Markets Integration
+* [ ] Serum & Zeta Markets Integration
 * [ ] Leveraged Grid Bot
 
-### 2022 Q3
+### 2022 Q3 - Beta Launch
 
 * [ ] Cross Margin Collateral
-* [ ] Beta Launch
 * [ ] TVL Growth
 * [ ] NFT drop
 * [ ] Multi-chain Expansion: dydx Integration
@@ -32,6 +29,7 @@
 ### 2022 Q4
 
 * [ ] Governane & Dao
+* [ ] Tokenomics Design & Implementation
 * [ ] Range-Based Farm
 * [ ] Strategic Round
 
