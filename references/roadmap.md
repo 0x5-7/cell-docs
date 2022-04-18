@@ -33,12 +33,12 @@
 * [ ] Range-Based Farm
 * [ ] Strategic Round
 
-### 2023 Q1 & Q2 - Public Sale
+### 2023 H1- Public Sale & Platform
 
 * [ ] Public Sale & TGE
 * [ ] Multi-chain expansion: Alt L1s and L2s
 * [ ] Multi-chain CLOB DEX
 
-### 2023 Q3 - Listing & More
+### 2023 H2 - Listing & More
 
 * [ ] Multi-chain Launchpad & LBP
