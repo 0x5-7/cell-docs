@@ -16,7 +16,7 @@
 
 * [ ] Seed Round
 * [ ] Opensource & Audit
-* [ ] Serum & Zeta Markets Integration
+* [ ] Fund Pooling & Farm
 * [ ] Leveraged Grid Bot
 
 ### 2022 Q3 - Beta Launch
@@ -24,19 +24,20 @@
 * [ ] Cross Margin Collateral
 * [ ] TVL Growth
 * [ ] NFT Drop
+* [ ] Serum & Zeta Markets Integration
+
+### 2022 Q4 - Multi-chain Expansion
+
 * [ ] Multi-chain Expansion: dydx Integration
-
-### 2022 Q4 - Governance
-
-* [ ] Governane & Dao
-* [ ] Tokenomics Design & Implementation
+* [ ] Governance & Dao
 * [ ] Range-Based Farm
 * [ ] Strategic Round
 
 ### 2023 H1- Public Sale & Platform
 
+* [ ] Tokenomics Design & Implementation
 * [ ] Public Sale & TGE
-* [ ] Multi-chain expansion: Alt L1s and L2s
+* [ ] Multi-chain Expansion: Alt L1s and L2s
 * [ ] Multi-chain CLOB DEX
 
 ### 2023 H2 - Listing & More
