@@ -1,11 +1,11 @@
 # Roadmap
 
-### 2021 Q4
+### 2021 Q4 - Bootstrap
 
 * [x] Team Formation
 * [x] Prototype
 
-### 2022 Q1
+### 2022 Q1 - Grid Bots
 
 * [x] Complete PoC
 * [x] Frontend Refresh
@@ -23,23 +23,22 @@
 
 * [ ] Cross Margin Collateral
 * [ ] TVL Growth
-* [ ] NFT drop
+* [ ] NFT Drop
 * [ ] Multi-chain Expansion: dydx Integration
 
-### 2022 Q4
+### 2022 Q4 - Governance
 
 * [ ] Governane & Dao
 * [ ] Tokenomics Design & Implementation
 * [ ] Range-Based Farm
 * [ ] Strategic Round
 
-### 2023 Q1 & 2023 Q2
+### 2023 Q1 & Q2 - Public Sale
 
-* [ ] Multi-chain expansion: Alt L1s and L2s
 * [ ] Public Sale & TGE
+* [ ] Multi-chain expansion: Alt L1s and L2s
 * [ ] Multi-chain CLOB DEX
 
-### 2023 Q3
+### 2023 Q3 - Listing & More
 
 * [ ] Multi-chain Launchpad & LBP
-* [ ] Listing & More
