@@ -9,15 +9,15 @@
 
 * [x] Complete Grid Bot PoC
 * [x] App Frontend Refresh
-* [ ] Website Release
-* [ ] Brand Design
+* [x] Website Release
+* [x] Brand Design
 
 ### 2022 Q2 | Alpha Launch
 
+* [x] Leveraged Grid Bot
 * [ ] Seed Round
 * [ ] Opensource & Audit
 * [ ] Fund Pooling & Farm
-* [ ] Leveraged Grid Bot
 
 ### 2022 Q3 | Beta Launch
 
